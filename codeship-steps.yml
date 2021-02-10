@@ -9,7 +9,7 @@
     command: ./script/ci
 
 - name: "test"
-  service: test
+  service: testb
   command: ./scri./scripts/cipts/ci
 
 - name: "integration tests"
